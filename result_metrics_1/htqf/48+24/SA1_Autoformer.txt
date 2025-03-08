@@ -1,0 +1,12 @@
+
+========== Autoformer_Soft_XX_htqf results ==========
+Average Horizon,PI 0.950, picp: 96.5897%, mpiw: 408.95
+Average Horizon,crps 64.987, cross_loss: 0.03
+
+========== Autoformer_Soft_XX_htqf results ==========
+Average Horizon,PI 0.900, picp: 91.1620%, mpiw: 294.87
+Average Horizon,crps 64.987, cross_loss: 0.03
+
+========== Autoformer_Soft_XX_htqf results ==========
+Average Horizon,PI 0.850, picp: 84.3429%, mpiw: 238.58
+Average Horizon,crps 64.987, cross_loss: 0.03

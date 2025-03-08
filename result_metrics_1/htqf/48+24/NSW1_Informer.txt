@@ -1,0 +1,12 @@
+
+========== Informer_Soft_XX_htqf results ==========
+Average Horizon,PI 0.950, picp: 94.3832%, mpiw: 304.31
+Average Horizon,crps 53.775, cross_loss: 0.00
+
+========== Informer_Soft_XX_htqf results ==========
+Average Horizon,PI 0.900, picp: 88.1272%, mpiw: 245.87
+Average Horizon,crps 53.775, cross_loss: 0.00
+
+========== Informer_Soft_XX_htqf results ==========
+Average Horizon,PI 0.850, picp: 80.3804%, mpiw: 211.01
+Average Horizon,crps 53.775, cross_loss: 0.00

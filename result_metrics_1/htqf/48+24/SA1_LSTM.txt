@@ -1,0 +1,12 @@
+
+========== LSTM_Soft_XX_htqf results ==========
+Average Horizon,PI 0.950, picp: 93.6810%, mpiw: 201.60
+Average Horizon,crps 56.670, cross_loss: 0.00
+
+========== LSTM_Soft_XX_htqf results ==========
+Average Horizon,PI 0.900, picp: 90.2758%, mpiw: 157.70
+Average Horizon,crps 56.670, cross_loss: 0.00
+
+========== LSTM_Soft_XX_htqf results ==========
+Average Horizon,PI 0.850, picp: 86.9181%, mpiw: 133.02
+Average Horizon,crps 56.670, cross_loss: 0.00

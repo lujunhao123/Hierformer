@@ -1,0 +1,12 @@
+
+========== GRU_Soft_XX_htqf results ==========
+Average Horizon,PI 0.950, picp: 91.7522%, mpiw: 357.37
+Average Horizon,crps 55.453, cross_loss: 0.00
+
+========== GRU_Soft_XX_htqf results ==========
+Average Horizon,PI 0.900, picp: 87.3436%, mpiw: 295.57
+Average Horizon,crps 55.453, cross_loss: 0.00
+
+========== GRU_Soft_XX_htqf results ==========
+Average Horizon,PI 0.850, picp: 83.9951%, mpiw: 256.68
+Average Horizon,crps 55.453, cross_loss: 0.00

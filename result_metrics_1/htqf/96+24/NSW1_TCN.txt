@@ -1,0 +1,12 @@
+
+========== TCN_Soft_XX_htqf results ==========
+Average Horizon,PI 0.950, picp: 96.3947%, mpiw: 359.36
+Average Horizon,crps 57.738, cross_loss: 0.00
+
+========== TCN_Soft_XX_htqf results ==========
+Average Horizon,PI 0.900, picp: 92.2913%, mpiw: 265.70
+Average Horizon,crps 57.738, cross_loss: 0.00
+
+========== TCN_Soft_XX_htqf results ==========
+Average Horizon,PI 0.850, picp: 88.5053%, mpiw: 218.82
+Average Horizon,crps 57.738, cross_loss: 0.00

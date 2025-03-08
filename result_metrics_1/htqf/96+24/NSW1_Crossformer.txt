@@ -1,0 +1,12 @@
+
+========== Crossformer_Soft_XX_htqf results ==========
+Average Horizon,PI 0.950, picp: 89.5105%, mpiw: 356.14
+Average Horizon,crps 65.287, cross_loss: 0.00
+
+========== Crossformer_Soft_XX_htqf results ==========
+Average Horizon,PI 0.900, picp: 78.0976%, mpiw: 288.88
+Average Horizon,crps 65.287, cross_loss: 0.00
+
+========== Crossformer_Soft_XX_htqf results ==========
+Average Horizon,PI 0.850, picp: 67.3581%, mpiw: 248.11
+Average Horizon,crps 65.287, cross_loss: 0.00
