@@ -10,5 +10,6 @@ The code will be **publicly released upon the acceptance of the paper**.
 
 Please stay tuned for updates!
 
-
-![Model](Hierformer.png)
+<div style="background-color: white; display: inline-block;">
+  <img src="Hierformer.png.png" alt="白底图片" style="background-color: white;" />
+</div>
