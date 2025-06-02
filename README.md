@@ -11,3 +11,4 @@ The code will be **publicly released upon the acceptance of the paper**.
 Please stay tuned for updates!
 
 
+![Model](Hierformer.png)
