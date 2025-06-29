@@ -5,6 +5,6 @@ Large-scale wind power grid integration exhibits distinctive spatio-temporal  co
 
 Please stay tuned for updates!
 
-<div style="background-color: white; display: inline-block;">
-  <img src="Hierformer.png" alt="Model" style="background-color: white;" />
-</div>
+<p align="center"> 
+    <img src="Hierformer.png" width="800">
+</p>
